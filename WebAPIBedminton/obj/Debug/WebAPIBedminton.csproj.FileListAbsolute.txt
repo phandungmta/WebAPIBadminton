@@ -1,0 +1,189 @@
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\ApplicationInsights.config
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\roslyn\csc.exe
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\roslyn\System.Collections.Immutable.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\roslyn\vbc.exe
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\roslyn\VBCSCompiler.exe
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\roslyn\VBCSCompiler.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\WebAPIBedminton.dll.config
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\WebAPIBedminton.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\WebAPIBedminton.pdb
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Antlr3.Runtime.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Microsoft.AI.Web.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Microsoft.AI.WindowsServer.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Microsoft.ApplicationInsights.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Newtonsoft.Json.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Net.Http.Formatting.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.Helpers.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.Http.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.Http.WebHost.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.Mvc.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.Optimization.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.Razor.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.WebPages.Deployment.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.WebPages.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.WebPages.Razor.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\WebGrease.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Microsoft.AI.Web.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Microsoft.AI.WindowsServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Microsoft.ApplicationInsights.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Newtonsoft.Json.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Net.Http.Formatting.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.Helpers.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.Http.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.Http.WebHost.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.Mvc.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.Optimization.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.Razor.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.WebPages.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.WebPages.Deployment.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\System.Web.WebPages.Razor.xml
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\bin\Antlr3.Runtime.pdb
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\obj\Debug\WebAPIBedminton.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\obj\Debug\WebAPIBedminton.dll
+c:\users\pc\documents\visual studio 2015\Projects\WebAPIBedminton\WebAPIBedminton\obj\Debug\WebAPIBedminton.pdb
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\obj\Debug\WebAPIBedminton.csprojResolveAssemblyReference.cache
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\obj\Debug\WebAPIBedminton.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\obj\Debug\WebAPIBedminton.pdb
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\ApplicationInsights.config
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\roslyn\csc.exe
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\roslyn\System.Collections.Immutable.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\roslyn\System.Reflection.Metadata.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\roslyn\vbc.exe
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\roslyn\VBCSCompiler.exe
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\roslyn\VBCSCompiler.exe.config
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\WebAPIBedminton.dll.config
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\WebAPIBedminton.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\WebAPIBedminton.pdb
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Antlr3.Runtime.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\EntityFramework.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\EntityFramework.SqlServer.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Microsoft.AI.DependencyCollector.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Microsoft.AI.Web.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Microsoft.AI.WindowsServer.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Microsoft.ApplicationInsights.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Microsoft.Web.Infrastructure.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Newtonsoft.Json.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Net.Http.Formatting.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.Helpers.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.Http.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.Http.WebHost.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.Mvc.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.Optimization.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.Razor.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.WebPages.Deployment.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.WebPages.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.WebPages.Razor.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\WebGrease.dll
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\EntityFramework.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\EntityFramework.SqlServer.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Microsoft.AI.DependencyCollector.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Microsoft.AI.Web.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Microsoft.AI.WindowsServer.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Microsoft.ApplicationInsights.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Newtonsoft.Json.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Net.Http.Formatting.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.Helpers.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.Http.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.Http.WebHost.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.Mvc.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.Optimization.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.Razor.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.WebPages.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.WebPages.Deployment.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\System.Web.WebPages.Razor.xml
+E:\Downloads\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBadminton-5ec393bb22572b537b68b217a72814b6d68e7acc\WebAPIBedminton\bin\Antlr3.Runtime.pdb
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\ApplicationInsights.config
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\roslyn\csc.exe
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\roslyn\System.Collections.Immutable.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\roslyn\System.Reflection.Metadata.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\roslyn\vbc.exe
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\roslyn\VBCSCompiler.exe
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\roslyn\VBCSCompiler.exe.config
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\WebAPIBedminton.dll.config
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\WebAPIBedminton.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\WebAPIBedminton.pdb
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Antlr3.Runtime.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\EntityFramework.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\EntityFramework.SqlServer.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Microsoft.AI.DependencyCollector.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Microsoft.AI.Web.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Microsoft.AI.WindowsServer.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Microsoft.ApplicationInsights.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Microsoft.Web.Infrastructure.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Newtonsoft.Json.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Net.Http.Formatting.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.Helpers.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.Http.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.Http.WebHost.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.Mvc.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.Optimization.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.Razor.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.WebPages.Deployment.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.WebPages.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.WebPages.Razor.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\WebGrease.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\EntityFramework.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\EntityFramework.SqlServer.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Microsoft.AI.DependencyCollector.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Microsoft.AI.Web.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Microsoft.AI.WindowsServer.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Microsoft.ApplicationInsights.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Newtonsoft.Json.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Net.Http.Formatting.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.Helpers.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.Http.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.Http.WebHost.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.Mvc.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.Optimization.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.Razor.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.WebPages.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.WebPages.Deployment.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\System.Web.WebPages.Razor.xml
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\bin\Antlr3.Runtime.pdb
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\obj\Debug\WebAPIBedminton.csprojResolveAssemblyReference.cache
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\obj\Debug\WebAPIBedminton.dll
+D:\DataBackUpOnGitHub\WebAPIBadminton\WebAPIBadminton\WebAPIBedminton\obj\Debug\WebAPIBedminton.pdb
